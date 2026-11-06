@@ -12,11 +12,11 @@ IA agentique (agents LLM, MCP, RAG) · Data Science / Big Data · Cloud & IA · 
 - **Web & DevOps :** Next.js, React, Django, Docker, Railway, Cloudflare, Git
 
 ## 🚀 Projets
-- 🌐 [**SiteRide Morocco**](https://github.com/HAMZA-eELATIFI/siteride-morocco) : plateforme touristique en production, 6 langues — [siteridemorocco.com](https://siteridemorocco.com) (Next.js 16, Docker, Railway, Cloudflare, SEO & GEO)
 - 🤖 **Chatbot RAG** : Django + React + LLM (stage 2025)
 - 📊 [**student-performance-analysis**](https://github.com/HAMZA-eELATIFI/student-performance-analysis) : EDA, ANOVA, ACP (90,6 % de variance expliquée)
 - 🎓 [**student-success-prediction-ml**](https://github.com/HAMZA-eELATIFI/student-success-prediction-ml) : KNN vs arbre de décision, F1-score
 - 🛒 [**ziit-srghinia**](https://github.com/HAMZA-eELATIFI/ziit-srghinia) : site e-commerce Django déployé en production
+- 🌐 **SiteRide Morocco** : [siteridemorocco.com](https://siteridemorocco.com) (Next.js, Docker, Cloudflare)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/hamza-elatifi-7a5b9a196/) · hamzapop111@gmail.com
